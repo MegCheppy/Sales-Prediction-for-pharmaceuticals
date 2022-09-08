@@ -245,8 +245,6 @@ python-slugify @ file:///home/conda/feedstock_root/build_artifacts/python-slugif
 pytz==2020.1
 pytz-deprecation-shim==0.1.0.post0
 PyWavelets @ file:///C:/ci/pywavelets_1601658407916/work
-pywin32==227
-pywin32-ctypes==0.2.0
 pywinpty==0.5.7
 PyYAML==5.3.1
 pyzmq==19.0.2
